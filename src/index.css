@@ -11,9 +11,17 @@
   --text-color: #1d1d1f;
   --background-color: #ffffff;
   --background-secondary: #f5f5f7;
-  --deep-brown: #786C3B;
-  --warm-beige: #F5F5DC;
-  --accent-gold: #FFD700;
+  --deep-brown: #2C1810;
+  --warm-beige: #FAEBD7;
+  --accent-gold: #8B4513;
+  --calendar-header-color: #8B4513;
+  --calendar-header-background-color: #FAEBD7;
+  --calendar-body-background-color: #ffffff;
+  --calendar-body-text-color: #2C1810;
+  --calendar-date-hover-background-color: #8B4513;
+  --calendar-date-hover-text-color: #FAEBD7;
+  --calendar-date-selected-background-color: #8B4513;
+  --calendar-date-selected-text-color: #FAEBD7;
 }
 
 * {
